@@ -1,6 +1,5 @@
 package com.tanmoy.client;
 
-
 import lombok.Builder;
 import lombok.Data;
 
@@ -13,3 +12,4 @@ public class Client {
     private String email;
 
 }
+
